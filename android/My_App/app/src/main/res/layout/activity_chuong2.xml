@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_marginBottom="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong2truoc"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+
+                    android:background="@drawable/left"
+                    />
+                <TextView
+                    android:layout_width="220dp"
+                    android:layout_height="55dp"
+                    android:text="  Chương 2"
+                    android:layout_gravity="center"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+
+                    />
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong2sau"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/right"
+                    />
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:id="@+id/img_noi_dung_tt"
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/mota" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/mota" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/haia" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/baa" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bona" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/nama" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/saua" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/baya" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/tama" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/china" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

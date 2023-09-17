@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6465e72ec893580b300130c3"
+  },
+  "name": "Hành động",
+  "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvxJqC-pVe-u9M-tZRrZYRPdpGJJfgdbtlwWoIWU_k0agYGcZ0DNzqEySWNhJIl3drbA&usqp=CAU",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684399918626"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684399918626"
+    }
+  },
+  "slug": "hanh-dong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eb1f1b95ce49dcb06a47"
+  },
+  "name": "Kinh dị",
+  "avatar": "https://vn.japo.news/contents/wp-content/uploads/2016/09/3_phim-manga_8-manga-kinh-di-nhat-ban-gay-am-anh-nhat_181634-291x300.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684400927547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684400927547"
+    }
+  },
+  "slug": "kinh-di",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eb5f1b95ce49dcb06a59"
+  },
+  "name": "Phiêu lưu",
+  "avatar": "https://img.truyenhay1s.com/uploads/minh_hoa/pheremone-ngot-ngao-1639023607.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684400991294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684400991294"
+    }
+  },
+  "slug": "phieu-luu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ebdd1b95ce49dcb06a61"
+  },
+  "name": "Hài",
+  "avatar": "https://cdn.khotruyentranhonline.net/images/fullsize/2022/02/11/omega-va-anh-chang-quan-ly-tiem-banh-ngot-full.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684401117407"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684401117407"
+    }
+  },
+  "slug": "hai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ec231b95ce49dcb06a68"
+  },
+  "name": "Cổ đại",
+  "avatar": "https://tiengtrung.com/wp-content/uploads/2020/11/%E1%BA%A2nh-ch%E1%BB%A5p-M%C3%A0n-h%C3%ACnh-2020-11-06-l%C3%BAc-18.33.44.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684401187847"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684401187847"
+    }
+  },
+  "slug": "co-dai",
+  "__v": 0
+}]

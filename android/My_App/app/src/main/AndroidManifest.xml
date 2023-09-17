@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.study.ctruyntranh">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ĐọcTruyệnTranh"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".quenpass"
+            android:exported="false" />
+        <activity
+            android:name=".Chuong3"
+            android:exported="false" />
+        <activity
+            android:name=".Chuong2"
+            android:exported="false" />
+        <activity
+            android:name=".Chuong1"
+            android:exported="false" />
+        <activity
+            android:name=".Help"
+            android:exported="false" />
+        <activity
+            android:name=".Like"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".History"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".Search_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".NoiDungTruyenTranh"
+            android:exported="false" />
+        <activity
+            android:name=".ChiTietTruyenTranh"
+            android:exported="false" />
+        <activity
+            android:name=".ChiTietDanhMuc"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sign_inActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DanhMuc"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

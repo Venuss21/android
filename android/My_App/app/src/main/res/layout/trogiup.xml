@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/quaylai300"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:src="@drawable/back111"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text=" Trung tâm trợ giúp "
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+         />
+        <ImageView
+            android:layout_below="@+id/quaylai300"
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:src="@drawable/helpmot" />
+
+    </RelativeLayout>
+</LinearLayout>

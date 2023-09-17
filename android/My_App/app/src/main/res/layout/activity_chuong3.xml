@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_marginBottom="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong3truoc"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+
+                    android:background="@drawable/left"
+                    />
+                <TextView
+                    android:layout_width="220dp"
+                    android:layout_height="55dp"
+                    android:text="  Chương 3"
+                    android:layout_gravity="center"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+
+                    />
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong3sau"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/right"
+                    />
+
+            </LinearLayout>
+
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+
+                android:src="@drawable/motb" />
+
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/haib" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bab" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bonb" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/namb" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/saub" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bayb" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/tamb" />
+            <ImageView
+
+                android:layout_width="380dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/chinb" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

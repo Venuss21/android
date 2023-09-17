@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    tools:context=".Search_Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id_title_search"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kết quả tìm kiếm cho : "
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:textStyle="italic"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="search"
+            android:id="@+id/id_key_search"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_marginTop="10dp"
+            />
+    </LinearLayout>
+    <ListView
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/id_title_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tt_search"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/danhMucItemTC"-->
+<!--        android:weightSum="10"-->
+<!--        >-->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/tieuDeTC"-->
+<!--            android:text="Hành động"-->
+<!--            android:layout_weight="9"-->
+<!--            android:textSize="20sp"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:id="@+id/views_more_tc"-->
+<!--            >-->
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:id="@+id/tieuDeXemThemTC"-->
+<!--                android:layout_weight="0.5"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Thêm"-->
+<!--                android:gravity="center"-->
+
+<!--                android:textSize="18sp"/>-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="20dp"-->
+<!--                android:layout_height="20dp"-->
+<!--                android:layout_weight="0.5"-->
+<!--                android:src="@drawable/icon_view_more_2"-->
+<!--                android:id="@+id/xemThemItemTC"-->
+<!--                android:layout_gravity="center"-->
+<!--                />-->
+<!--        </LinearLayout>-->
+<!--    </LinearLayout>-->
+
+
+    <LinearLayout
+        android:background="#fff"
+        android:id="@+id/idDanhMuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="20"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/idCardViewimgDanhMuc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="30dp">
+
+            <ImageView
+                android:id="@+id/hinhAnhDanhMuc"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/truyen_tranh_hanh_dong_" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tenDanhMuc"
+            android:layout_gravity="center"
+
+            android:text="Hành động"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:textStyle="italic" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

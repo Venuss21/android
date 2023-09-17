@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        >
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:src="@drawable/tt_bang_hoa_ma_truf"
+            android:id="@+id/imageTruyenTranh"/>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/txtTenTruyenTranh"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:text="Băng Hỏa Ma Trù"
+        android:textColor="#000"
+        android:textSize="14sp" />
+
+</LinearLayout>

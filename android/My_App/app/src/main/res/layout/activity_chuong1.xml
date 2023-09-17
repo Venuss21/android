@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_marginBottom="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong1truoc"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+
+                    android:background="@drawable/left"
+                    />
+                <TextView
+                    android:layout_width="220dp"
+                    android:layout_height="55dp"
+                    android:text="  Chương 1"
+                    android:layout_gravity="center"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+
+                    />
+                <Button
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/chuong1sau"
+                    android:layout_width="70dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/right"
+                    />
+
+            </LinearLayout>
+
+
+
+
+
+            <ImageView
+                android:id="@+id/img_noi_dung_tt"
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/hai" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/ba"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bon"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/nam"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/sau"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/bay"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/tam"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/chin"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoi"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoimot"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoihai"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoiba"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoibon"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoinam"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoisau"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+            <ImageView
+
+                android:layout_width="400dp"
+                android:layout_height="500dp"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/muoibay"
+                android:verticalScrollbarPosition="defaultPosition" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

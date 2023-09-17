@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+
+  >
+
+
+    <ImageView
+        android:id="@+id/quaylai"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:src="@drawable/back111" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="98dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/cardview_default_radius"
+        android:text="Đăng ký "
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:id="@+id/et_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Tên đăng nhập"
+        android:inputType="text"
+        android:textSize="20sp"
+        android:layout_marginBottom="15dp"
+        />
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Mật khẩu"
+        android:textSize="20sp"
+        android:inputType="textPassword"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:paddingTop="20dp"
+        android:background="@drawable/button"
+        android:id="@+id/et_confirm_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Xác nhận mật khẩu"
+        android:textSize="20sp"
+        android:layout_marginBottom="15dp"
+
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:id="@+id/et_email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Email"
+        android:textSize="20sp"
+
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:id="@+id/et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Số điện thoại"
+        android:textSize="20sp"
+
+        android:inputType="phone"
+        android:layout_marginBottom="15dp"
+        />
+
+    <Button
+        android:background="@drawable/button"
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+
+        android:textSize="20sp"
+        android:text="Đăng ký"/>
+
+    <TextView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:text="     __________________________________________"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        />
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="37dp"
+        android:text="Hoặc đăng kí với tài khoản khác"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        />
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <androidx.cardview.widget.CardView
+            android:layout_marginLeft="15dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="100dp">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/gg"
+                />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_marginLeft="15dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="100dp">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/fb"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

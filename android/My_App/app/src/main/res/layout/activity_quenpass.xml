@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+
+    >
+
+
+    <ImageView
+        android:id="@+id/quaylai"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:src="@drawable/back111" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="98dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/cardview_default_radius"
+        android:text="Quên mật khẩu "
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:gravity="center_horizontal"
+        android:background="@drawable/button"
+        android:id="@+id/et_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Tên đăng nhập"
+        android:inputType="text"
+        android:textSize="20sp"
+
+        android:layout_marginBottom="15dp"
+        />
+
+    <RelativeLayout
+        android:id="@+id/rala"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+
+        >
+
+    <RadioButton
+        android:id="@+id/radio1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sử dụng email liên kết với tài khoản"
+        android:textSize="16sp"
+        />
+
+        <RadioButton
+            android:layout_below="@+id/radio1"
+            android:id="@+id/radio2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sử dụng số điện thoại liên kết với tài khoản"
+            android:textSize="16sp"
+            />
+
+        <EditText
+            android:id="@+id/ed1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/button"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Mã OTP"
+            android:inputType="text"
+            android:layout_below="@+id/radio2"
+            android:textSize="20sp"
+            android:layout_marginBottom="15dp"
+            />
+
+        <Button
+            android:background="@drawable/button"
+            android:id="@+id/btn_register"
+            android:layout_below="@+id/ed1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Tiếp tục"
+            android:textSize="20sp"/>
+
+
+
+    </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

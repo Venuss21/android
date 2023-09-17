@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/drawable/custom_edittext_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/drawable/custom_img_danhmuc.xml" value="0.26614583333333336" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_chi_tiet_danh_muc.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_chi_tiet_truyen_tranh.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_danh_muc.xml" value="0.1" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_noi_dung_truyen_tranh.xml" value="0.2359375" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/danh_muc.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/danh_muc_tc.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/danhmuc_trangchu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/dong_chuong_tt.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/dong_noi_dung_tt.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/dong_search.xml" value="0.25" />
+        <entry key="..\:/Study/Tu Hoc Lap Trinh/Android/BTL_ANDROID/My_App/app/src/main/res/layout/truyen_tranh_tc.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

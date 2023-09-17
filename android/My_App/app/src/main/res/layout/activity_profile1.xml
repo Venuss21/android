@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+    >
+    <ImageView
+        android:id="@+id/backsapce"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:src="@drawable/back111"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="50dp">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/avt12">
+            </ImageView>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+        >
+        <TextView
+
+            android:id="@+id/doianh"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_marginTop="0dp"
+            android:text=" thay đổi ảnh đại diện "
+            android:textSize="16sp"
+           />
+
+        <LinearLayout
+
+            android:id="@+id/historytxt"
+            android:layout_below="@+id/doianh"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/history"
+                />
+            <TextView
+                android:id="@+id/readhis"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/profiletxt7"
+                android:text=" Lịch sử đọc truyện"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                 />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/profiletxt"
+            android:layout_below="@+id/historytxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/prodile23"
+                />
+            <TextView
+                android:id="@+id/trangcanhan"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/profiletxt7"
+                android:text=" Trang cá nhân"
+                android:textSize="30sp"
+                android:textColor="@color/black"
+                 />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/help"
+            android:layout_below="@+id/profiletxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/sp123"
+                />
+            <TextView
+                android:id="@+id/help123"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/profiletxt7"
+                android:text=" Trung tâm trợ giúp "
+                android:textSize="30sp"
+                android:textColor="@color/black"
+                 />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/like"
+            android:layout_below="@+id/help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/tim"
+                />
+            <TextView
+                android:id="@+id/like123"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/profiletxt7"
+                android:text=" Truyện yêu thích "
+                android:textSize="30sp"
+                android:textColor="@color/black"
+                 />
+        </LinearLayout>
+        <LinearLayout
+
+            android:layout_below="@+id/like"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/dangxuat"
+                />
+            <TextView
+                android:id="@+id/dangxuat"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text=" Đăng xuất "
+                android:textSize="30sp"
+                android:textColor="@color/black"
+                 />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

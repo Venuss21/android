@@ -1,0 +1,617 @@
+[{
+  "_id": {
+    "$oid": "63f877db53dc0770694f1b0f"
+  },
+  "name": "Võ Luyện Đỉnh Phong",
+  "sochuong": "30",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://i0.wp.com/s2.anhvip.xyz/comics/vo-luyen-dinh-phong-1630692177.jpg",
+  "baner": "https://www.nettruyenup.com/truyen-tranh/vo-luyen-dinh-phong/chap-1/361803",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677227995560"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677227995560"
+    }
+  },
+  "slug": "vo-luyen-dinh-phong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f883b653dc0770694f1c3b"
+  },
+  "name": "Thám Tử Fuuto",
+  "sochuong": "40",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenup.com/data/comics/149/tham-tu-fuuto.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677231030565"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677231030565"
+    }
+  },
+  "slug": "tham-tu-fuuto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f8887bd0dd3df39d0e3729"
+  },
+  "name": "Xuyên Đến Cổ Đại Ta Được Muôn Ngàn Sủng Ái",
+  "sochuong": "40",
+  "iddanhmuc": "6465ebdd1b95ce49dcb06a61",
+  "tendanhmuc": "Hài",
+  "avatar": "https://st.nettruyenup.com/data/comics/178/xuyen-den-co-dai-ta-duoc-muon-ngan-sung-1049.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677232251987"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677232251987"
+    }
+  },
+  "slug": "xuyen-den-co-dai-ta-duoc-muon-ngan-sung-ai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f8896eaf097487f2b7e349"
+  },
+  "name": "Khánh Dư Niên",
+  "sochuong": "50",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenup.com/data/comics/47/khanh-du-nien.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677232494099"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677232494099"
+    }
+  },
+  "slug": "khanh-du-nien",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f88a23af097487f2b7e45d"
+  },
+  "name": "Dịch Vụ Trả Thù Ngoại Truyện",
+  "sochuong": "50",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nettruyenup.com/data/comics/162/dich-vu-tra-thu-ngoai-truyen.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677232675646"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677232675646"
+    }
+  },
+  "slug": "dich-vu-tra-thu-ngoai-truyen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f88a8faf097487f2b7e572"
+  },
+  "name": "Cuộc diễu hành của người sống và kẻ chết: sự báo thù",
+  "sochuong": "40",
+  "iddanhmuc": "6465eb5f1b95ce49dcb06a59",
+  "tendanhmuc": "Phiêu lưu",
+  "avatar": "https://st.nettruyenup.com/data/comics/104/cuoc-dieu-hanh-cua-nguoi-song-va-ke-chet-2736.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677232783484"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677232783484"
+    }
+  },
+  "slug": "cuoc-dieu-hanh-cua-nguoi-song-va-ke-chet-su-bao-thu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f88c5eaf097487f2b7e652"
+  },
+  "name": "Thanh Xuân Của Chúng Ta",
+  "sochuong": "40",
+  "iddanhmuc": "6465ebdd1b95ce49dcb06a61",
+  "tendanhmuc": "Hài",
+  "avatar": "https://st.nettruyenup.com/data/comics/246/thanh-xuan-cua-chung-ta.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677233246368"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677233246368"
+    }
+  },
+  "slug": "thanh-xuan-cua-chung-ta",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f88c73af097487f2b7e723"
+  },
+  "name": "Tôi Không Muốn Làm Người Mai Mối",
+  "sochuong": "40",
+  "iddanhmuc": "6465ebdd1b95ce49dcb06a61",
+  "tendanhmuc": "Hài",
+  "avatar": "https://st.nettruyenup.com/data/comics/80/toi-khong-muon-lam-nguoi-mai-moi.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677233267853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677233267853"
+    }
+  },
+  "slug": "toi-khong-muon-lam-nguoi-mai-moi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fd9fa772025847b03d6918"
+  },
+  "name": "Ác Ma May Mắn",
+  "sochuong": "40",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenking.com/data/comics/108/ac-ma-may-man.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1677565863889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1677565863889"
+    }
+  },
+  "slug": "ac-ma-may-man",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416cff6e9694ec812cd8325"
+  },
+  "name": "Lão Đại Xuyên Không Gả Cho Phu Quân Mù",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/188/lao-dai-xuyen-khong-ga-cho-phu-quan-mu.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216630150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216630150"
+    }
+  },
+  "slug": "lao-dai-xuyen-khong-ga-cho-phu-quan-mu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d06d8ee459873089ec9d"
+  },
+  "name": "Lão Đại Xuyên Không Gả Cho Phu Quân Mù",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/188/lao-dai-xuyen-khong-ga-cho-phu-quan-mu.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216749204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216749204"
+    }
+  },
+  "slug": "lao-dai-xuyen-khong-ga-cho-phu-quan-mu-Sw1YXo5NC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d0a98ee459873089ece1"
+  },
+  "name": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/149/do-de-cua-ta-deu-la-dai-phan-phai.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216809744"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216809744"
+    }
+  },
+  "slug": "do-de-cua-ta-deu-la-dai-phan-phai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d0be8ee459873089ed1c"
+  },
+  "name": "Quý Phi Hôm Nay Cũng Bị Thịt",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/45/quy-phi-hom-nay-cung-bi-thit.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216830973"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216830973"
+    }
+  },
+  "slug": "quy-phi-hom-nay-cung-bi-thit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d0d88ee459873089ed57"
+  },
+  "name": "Thương Nguyên Đồ",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/236/thuong-nguyen-do.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216856310"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216856310"
+    }
+  },
+  "slug": "thuong-nguyen-do",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d0ec8ee459873089ed90"
+  },
+  "name": "Cái chết thoải mái của ác nữ công chúa",
+  "sochuong": "10",
+  "iddanhmuc": "6465ec231b95ce49dcb06a68",
+  "tendanhmuc": "Cổ Đại",
+  "avatar": "https://st.nettruyenvi.com/data/comics/146/cai-chet-thoai-mai-cua-ac-nu-cong-chua.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216876895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216876895"
+    }
+  },
+  "slug": "cai-chet-thoai-mai-cua-ac-nu-cong-chua",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d13e8ee459873089edd4"
+  },
+  "name": "Sư Phụ Ta Max 100 Triệu Điểm Mọi Thứ",
+  "sochuong": "10",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nettruyenvi.com/data/comics/92/su-phu-ta-max-100-trieu-diem-moi-thu.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216958529"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216958529"
+    }
+  },
+  "slug": "su-phu-ta-max-100-trieu-diem-moi-thu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d1618ee459873089ee0e"
+  },
+  "name": "Tuyệt Thế Võ Thần",
+  "sochuong": "10",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nettruyenvi.com/data/comics/148/tuyet-the-vo-than.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679216993502"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679216993502"
+    }
+  },
+  "slug": "tuyet-the-vo-than",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d1768ee459873089ee47"
+  },
+  "name": "Nguyên Lai Ta Là Chí Tôn Tiên Giới",
+  "sochuong": "10",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nettruyenvi.com/data/comics/244/nguyen-lai-ta-la-chi-ton-tien-gioi.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217014550"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217014550"
+    }
+  },
+  "slug": "nguyen-lai-ta-la-chi-ton-tien-gioi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d18d8ee459873089ee80"
+  },
+  "name": "Cường Giả Tuyệt Thế Chỉ Muốn Làm Ruộng",
+  "sochuong": "10",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nhattruyenup.com/data/comics/122/cuong-gia-tuyet-the-chi-muon-lam-ruong.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217037994"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217037994"
+    }
+  },
+  "slug": "cuong-gia-tuyet-the-chi-muon-lam-ruong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d19f8ee459873089eeb9"
+  },
+  "name": "Cái chết thoải mái của ác nữ công chúa",
+  "sochuong": "10",
+  "iddanhmuc": "6465e72ec893580b300130c3",
+  "tendanhmuc": "Hành động",
+  "avatar": "https://st.nettruyenvi.com/data/comics/146/cai-chet-thoai-mai-cua-ac-nu-cong-chua.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217055990"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217055990"
+    }
+  },
+  "slug": "cai-chet-thoai-mai-cua-ac-nu-cong-chua-BcLFqao5M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d2888ee459873089ef00"
+  },
+  "name": "Công lý và bóng tối",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenvi.com/data/comics/148/cong-ly-va-bong-toi.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217288802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217288802"
+    }
+  },
+  "slug": "cong-ly-va-bong-toi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d2a18ee459873089ef39"
+  },
+  "name": "Mộ Thành Ngụy Sự",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenvi.com/data/comics/35/mo-thanh-nguy-su.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217313359"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217313359"
+    }
+  },
+  "slug": "mo-thanh-nguy-su",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d2b28ee459873089ef72"
+  },
+  "name": "Hợp Đồng Tự Tử",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenvi.com/data/comics/155/hop-dong-tu-tu.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217330062"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217330062"
+    }
+  },
+  "slug": "hop-dong-tu-tu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d2c98ee459873089efab"
+  },
+  "name": "Khu Ma Long Tộc Truyện",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb1f1b95ce49dcb06a47",
+  "tendanhmuc": "Kinh dị",
+  "avatar": "https://st.nettruyenvi.com/data/comics/44/toi-co-hen-voi-cuong-thi.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217353937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217353937"
+    }
+  },
+  "slug": "khu-ma-long-toc-truyen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d30a8ee459873089eff4"
+  },
+  "name": "Thiếu Niên Đăng Ba",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb5f1b95ce49dcb06a59",
+  "tendanhmuc": "Phiêu lưu",
+  "avatar": "https://st.nettruyenvi.com/data/comics/24/thieu-nien-dang-ba.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217418826"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217418826"
+    }
+  },
+  "slug": "thieu-nien-dang-ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d31b8ee459873089f02d"
+  },
+  "name": "Mèo Con và Chú Chó Già Của Tôi",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb5f1b95ce49dcb06a59",
+  "tendanhmuc": "Phiêu lưu",
+  "avatar": "https://st.nettruyenvi.com/data/comics/170/meo-con-va-chu-cho-gia-cua-toi.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217435935"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217435935"
+    }
+  },
+  "slug": "me-o-con-va-chu-cho-gia-cua-toi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d32a8ee459873089f066"
+  },
+  "name": "Si Mun - Người giao tiếp với Linh Hồn",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb5f1b95ce49dcb06a59",
+  "tendanhmuc": "Phiêu lưu",
+  "avatar": "https://st.nettruyenvi.com/data/comics/104/supernatural-investigation-department.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217450177"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217450177"
+    }
+  },
+  "slug": "si-mun-nguoi-giao-tiep-voi-linh-hon",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6416d33a8ee459873089f09f"
+  },
+  "name": "Yến Sơn Phái Và Bách Hoa Môn",
+  "sochuong": "10",
+  "iddanhmuc": "6465eb5f1b95ce49dcb06a59",
+  "tendanhmuc": "Phiêu lưu",
+  "avatar": "https://st.nettruyenvi.com/data/comics/153/yen-son-phai-va-bach-hoa-mon.jpg",
+  "baner": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679217466882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679217466882"
+    }
+  },
+  "slug": "yen-son-phai-va-bach-hoa-mon",
+  "__v": 0
+}]

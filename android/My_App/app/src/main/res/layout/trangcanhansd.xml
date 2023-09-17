@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="402dp"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="363dp"
+        android:background="#0B31F4"
+        />
+
+    <View
+        android:id="@+id/rectangle_8"
+        android:layout_width="411dp"
+        android:layout_height="221dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-24dp"
+        android:background="@drawable/eula"
+        />
+
+    <TextView
+        android:id="@+id/quang_h_i"
+        android:layout_width="87dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="229dp"
+        android:text="Quang Hợi"
+
+        android:gravity="top"
+        />
+
+    <TextView
+        android:id="@+id/lv0"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="-51dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="51dp"
+        android:gravity="top"
+        android:text="lv0" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <View
+            android:layout_width="62dp"
+            android:layout_height="58dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="171dp"
+            android:background="@drawable/avt12"
+            />
+    </androidx.cardview.widget.CardView>
+
+<!--    <View-->
+<!--        android:id="@+id/ellipse_7"-->
+<!--        android:layout_width="62dp"-->
+<!--        android:layout_height="58dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_marginLeft="15dp"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_marginTop="171dp"-->
+<!--        android:background="@drawable/avt12"-->
+<!--        />-->
+
+    <TextView
+        android:id="@+id/ng_i_theo_d"
+        android:layout_width="119dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="301dp"
+        android:text="Người theo dõi 0"
+
+        android:gravity="top"
+        />
+
+    <TextView
+        android:id="@+id/ang_theo_d_"
+        android:layout_width="119dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="140dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="301dp"
+        android:text="Đang theo dõi 0_"
+
+        android:gravity="top"
+        />
+
+    <TextView
+        android:id="@+id/hu_n_ch_ng"
+        android:layout_width="88dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="77dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="378dp"
+        android:text="Huân chương"
+        android:textColor="@color/white"
+        android:gravity="top"
+        />
+
+    <TextView
+        android:id="@+id/b_ng_tin"
+        android:layout_width="59dp"
+        android:layout_height="18dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="99dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="464dp"
+        android:text="Bảng tin"
+
+        android:gravity="top"
+        />
+
+    <TextView
+        android:id="@+id/t_c_ph_m"
+        android:layout_width="64dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="189dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="464dp"
+        android:text="Tác phẩm"
+
+        android:gravity="top"
+        />
+
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/t_t_c_"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:text="Tất cả"-->
+
+<!--        android:gravity="top"-->
+<!--        />-->
+
+
+</RelativeLayout>
